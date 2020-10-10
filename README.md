@@ -23,7 +23,7 @@ Since there is no linearization error, No computation of jacobian, which leads t
 
 ## Data :
 
-##### Simulated data using a simple motion model and some noise.
+##### Simulated data using a simple motion model and some noise. This simulated data was inspired from https://github.com/AtsushiSakai/PythonRobotics. 
 
 
 
