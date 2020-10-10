@@ -1,0 +1,12 @@
+DT : 0.1  # Time Interval 
+SIM_TIME : 40.0 # Simulation Time 
+ALPHA : 0.1 # Alpha Parameter
+BETA : 2  # Beta Parameter 
+KAPPA : 1 # Kappa Parameter 
+
+
+
+
+
+
+
